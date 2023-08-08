@@ -64,9 +64,9 @@ In summary, this folder structure appears to be organizing a GitHub repository b
 
 | No | Name | Folder |
 | --- | --- | :---: |
-| 1 | Nies | <a href="NiesHW" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
-| 2 | Chan | <a href="cwenghowe" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
-| 3 | Hidayah | <a href="NoorHidayahZ" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
+| 1 | Nies | <a href="NiesHW" ><img src="folder.png" width="24px" height="24px" ></a> | 
+| 2 | Chan | <a href="cwenghowe" ><img src="folder.png" width="24px" height="24px" ></a> | 
+| 3 | Hidayah | <a href="NoorHidayahZ" ><img src="folder.png" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/special-topic-data-engineering/issues) for any improvements, suggestions or errors in the content.
